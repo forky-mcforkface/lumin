@@ -25,6 +25,6 @@
   "homepage": "https://github.com/pshihn/lumin#readme",
   "devDependencies": {
     "rollup": "^0.59.4",
-    "rollup-plugin-babel-minify": "^5.0.0"
+    "rollup-plugin-babel-minify": "^10.0.0"
   }
 }
